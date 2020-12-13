@@ -1,2 +1,2 @@
 # Versions
-0.017 is die weergawe van ssc
+regerg0.017 is die weergawe van ssc
