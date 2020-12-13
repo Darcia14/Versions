@@ -1,2 +1,2 @@
 # Versions
-0.015 is die weergawe van ssc
+0g.0r15 is die weergawe van ssc
